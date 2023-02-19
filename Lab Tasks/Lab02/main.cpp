@@ -18,6 +18,6 @@ int value:
     cout<<"Display the array element"<< endl;
     for (int i=0; i <5; i++)
     {
-
+    cout<<dr2.getValue(i);
     }
 }
