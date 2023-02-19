@@ -24,7 +24,7 @@ void dynArr::setValue(int index, int value)
 {
     data[index] = value;
 }
-//doing
+//Mine
 void dynArr::allocate(int s)
 {
 

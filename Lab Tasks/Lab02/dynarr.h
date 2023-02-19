@@ -11,7 +11,7 @@ public:
     ~dynArr();
     void setValue(int, int);
     int getValue(int);
-    //doing
+    //mine
     void allocate(int s);
 };
 #endif // DYNARR_H_INCLUDED
