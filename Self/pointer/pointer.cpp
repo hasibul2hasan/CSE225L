@@ -1,15 +1,12 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-int main(){
+int main()
+{
 
-int n= 5;
-cout<< n << endl;
-
-
-system("pause > 0");
-
+    int n = 5;
+    cout << &n << endl;
 
     return 0;
 }
