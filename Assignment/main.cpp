@@ -8,7 +8,6 @@ cout << "Test of list: ";
 cout << "Test of list: ";
 cout << "Test of list: ";
 
-cout << "Test of list: ";
 
 
     return 0;
